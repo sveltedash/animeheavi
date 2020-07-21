@@ -1,11 +1,11 @@
 <script>
-    import Card from "./components/Card.svelte";
+    import SlowFloatCard from "./components/SlowFloatCard.svelte";
 </script>
 
-<Card horizontal="true">
+<SlowFloatCard horizontal="true">
     <h1>Hello World</h1>
-</Card>
+</SlowFloatCard>
 
-<Card>
+<SlowFloatCard>
     <h1>Hello World</h1>
-</Card>
+</SlowFloatCard>
